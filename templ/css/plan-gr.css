@@ -1,0 +1,85 @@
+div.view_page{background: #fff url("../images/tetra.jpg") repeat scroll 0 0;
+  border: 1px solid #ddd;
+  margin: 1em 0;
+  padding: 0.5em;}
+
+.infoBtn{
+ cursor:pointer; 
+}
+ul.footer_tech_menu{
+	display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.grid-header-container {
+    display: grid;
+    grid-template-columns: 20% auto 20%;
+		grid-template-rows: repeat(3, auto);
+    grid-gap: 10px;
+}
+
+.logo {
+    grid-row: span 3;
+		grid-column:span 1;
+}
+
+.menu {
+  /*  grid-column: span 2;*/
+}
+
+.link {
+  /*  grid-column: span 3;*/
+}
+
+.quote {
+    /*grid-column: span 2;*/
+		grid-row: span 2;
+}
+
+.telegram {
+/*    grid-column: span 2;*/
+}
+
+.language-switcher {
+/*    grid-column: span 2;*/
+}
+
+.grid-body-container{
+    display: grid;
+		grid-template-columns: auto;
+		grid-template-rows: repeat(3, 1fr);
+    grid-gap: 30px;
+		margin-top:30px;
+}
+.grid-footer-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+		margin-top: 30px;
+}
+.szone section{
+  border: 1px solid #ddd;
+	padding: 0.5em;
+}
+
+.vertical-menu {
+    justify-self: start;
+}
+
+.social-counters {
+    justify-self: end;
+}
+div.list_modules{
+ display:table;
+}
+div.row{
+ display:table-row;
+}
+div.cell{
+ display:table-cell;
+ padding: 0.5em;
+}
+div.head{
+ font-weight:bold;
+ align:center; 
+}

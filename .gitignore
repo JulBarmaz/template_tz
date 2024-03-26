@@ -1,0 +1,8 @@
+node_modules/*
+templ/t1/*
+prod/*
+.buildpath
+.project
+package-lock.json
+*.log
+

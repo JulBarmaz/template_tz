@@ -1,0 +1,43 @@
+{
+    "list_page": [
+        {
+            "id": 1,
+            "name": "main",
+						"title":"Главная",
+						"title_page":"Основная страница",
+						"description":"<div class=\"szone grid-body-container\"><section><div class=\"infoBtn\" data-infoid=\"7\">Виджет – крутилка(меню)  _ описание отдельно</div></section><section><div class=\"infoBtn\" data-infoid=\"8\">Пост из блога на главную (виджет)</div></section><section><div class=\"infoBtn\" data-infoid=\"9\">Список последних постов из блога (виджет)</div></section><section><div class=\"infoBtn\" data-infoid=\"10\">Новинки магазина (виджет)</div></section></div>"
+        },
+        {
+            "id": 2,
+            "name": "read-article",
+						"title":"Статья",
+						"title_page":"Статья (вид – read)",
+						"description":"<div class=\"szone grid-body-container\"><section><nav class=\"breadcrumbs infoBtn\" data-infoid=\"14\">Бред-крамб(хлебные крошки)</nav></section><section><article class=\"article infoBtn\" data-infoid=\"15\">Текст статьи</article></section><section class=\"comments\">Блок комментариев</section></div>"
+						
+        },
+        {
+            "id": 3,
+            "name": "tree-article",
+						"title":"Дерево статей",
+						"title_page":"Дерево статей (вид – tree)",
+						"description":"<div class=\"szone grid-body-container\"><section><nav class=\"breadcrumbs infoBtn\" data-infoid=\"14\">Бред-крамб(хлебные крошки)</nav></section><section><article class=\"article infoBtn\" data-infoid=\"15\">Текст статьи</article></section><section class=\"comments\">Блок комментариев</section></div>"
+					
+        },
+        {
+            "id": 4,
+            "name": "list-blogs",
+						"title":"Посты блогов",
+						"title_page":"Блоги (вид – списки блогов и постов в них) ",
+						"description":"<div class=\"szone grid-body-container\"><section><nav class=\"breadcrumbs infoBtn\" data-infoid=\"14\">14 Бред-крамб(хлебные крошки)</nav></section><section><div class=\"infoBtn\" data-infoid=\"18\">18 Фильтр по блогам( блоги, даты, теги)</div></section><section><div class=\"infoBtn\" data-infoid=\"19\">19. Плашками список постов блогов, разрешенных к выводу </div></section><section><div class=\"infoBtn\" data-infoid=\"20\">20.Пагинация по постам(если не умещается на странице)</div></section></div>"					
+        },
+        {
+            "id": 5,
+            "name": "blogs",
+						"title":"Пост блога",
+						"title_page":"Блоги (вид – списки блогов и постов в них) ",
+						"description":"<div class=\"szone grid-body-container\"><section><nav class=\"breadcrumbs infoBtn\" data-infoid=\"14\">14 Бред-крамб(хлебные крошки)</nav></section><section><div class=\"infoBtn\" data-infoid=\"18\">18 Фильтр по блогам( блоги, даты, теги)</div></section><section><div class=\"infoBtn\" data-infoid=\"19\">19. Плашками список постов блогов, разрешенных к выводу </div></section><section><div class=\"infoBtn\" data-infoid=\"20\">20.Пагинация по постам(если не умещается на странице)</div></section></div>"					
+        }
+
+
+]
+}
